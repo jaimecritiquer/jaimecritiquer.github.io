@@ -1,3 +1,1 @@
-Ceci est mon petit blog, basé sur Jekyll. La source originelle est [cocoahero.com](http://cocoahero.com) ([Source](http://github.com/cocoahero/cocoahero.github.com)). Tous les articles sont sous Copyright 2012.
-
-La visite, c'est par [là](http://hadrien01.github.com).
+J'aime critiquer, ça fait du bien. Et la critique, elle est [là](http://jaimecritiquer.github.io), prête à être critiquée.
